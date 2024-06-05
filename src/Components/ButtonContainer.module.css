@@ -1,0 +1,21 @@
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.button{
+    width: 105px;
+    height: 45px;
+    margin: 5px;
+    margin-top: 8px;
+    color: black;
+    background-color: rgba(17, 238, 238, 0.161);
+    opacity: 0.8; 
+    border-radius: 8px;
+    text-align: center;
+}
+.letter{
+font-size: 15px;
+font-size: medium;
+}

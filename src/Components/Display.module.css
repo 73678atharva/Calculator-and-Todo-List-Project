@@ -1,0 +1,12 @@
+.displayContainer{
+    width: 450px;
+    font-size: 25px;
+    margin: 10px;
+    border: 3px solid green;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+.mainDisplay{
+    display: flex;
+    justify-content: center;
+}

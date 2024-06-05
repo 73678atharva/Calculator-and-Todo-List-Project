@@ -1,0 +1,14 @@
+.AppContainer{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 370px;
+    background-color:rgb(240, 233, 254);
+}
+.mainContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    margin-top: 125px;
+}
